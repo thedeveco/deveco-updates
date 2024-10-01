@@ -7,5 +7,5 @@ This repository is read-only and intended for informational purposes, ensuring y
 For community discussions or contributions, please visit our [devEco Discord Server](https://discord.gg/deveco).
 
 Table of Contents:
-* September, 2024 - Update (Covering the month of August)
+* [September, 2024 - Update (Covering the month of August)](2024deveco-september.md)
 * October, 2024 - Update (Covering the month of September)
